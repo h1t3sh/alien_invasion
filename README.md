@@ -1,2 +1,2 @@
 # alien_invasion
-Aien invasion using pygame
+Alien invasion using pygame
